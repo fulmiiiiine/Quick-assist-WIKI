@@ -1,5 +1,12 @@
-<link rel="stylesheet" type="text/css" href="styles.css">
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <title>Server Settings Guide</title>
+</head>
+<body>
 
 # Server Settings Guide
 
@@ -174,3 +181,6 @@ If you encounter any issues while using the commands, consider these tips:
 ## Return to Index
 
 [Back to Index](index.md)
+
+</body>
+</html>
