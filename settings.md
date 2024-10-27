@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="styles.css">
-    <title>Server Settings Guide</title>
-</head>
-<body>
-
 # Server Settings Guide
 
 Welcome to the **Server Settings Guide** for the Discord Bot. This guide will provide you with detailed, step-by-step instructions on how to configure and manage your server settings.
@@ -181,6 +171,3 @@ If you encounter any issues while using the commands, consider these tips:
 ## Return to Index
 
 [Back to Index](index.md)
-
-</body>
-</html>
