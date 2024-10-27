@@ -1,6 +1,5 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
-
 # Level System Commands
 
 This document outlines the commands related to the level system in the Discord bot.
@@ -10,9 +9,7 @@ This document outlines the commands related to the level system in the Discord b
 Check the level of yourself or another user in the server.
 
 ### Usage
-```plaintext
 /level [@User]
-```
 - If no user is mentioned, it checks your own level.
 
 ### Permissions Required
@@ -25,10 +22,8 @@ Check the level of yourself or another user in the server.
 Manually add XP to a specific user. This command is only available to administrators.
 
 ### Usage
-```plaintext
 /addxp @User <amount>
-```
-- Example: `/addxp @JohnDoe 50`
+- Example: /addxp @JohnDoe 50
 
 ### Permissions Required
 - Administrator
@@ -40,9 +35,7 @@ Manually add XP to a specific user. This command is only available to administra
 Displays the top users in terms of XP and level.
 
 ### Usage
-```plaintext
 /leaderboard
-```
 
 ### Permissions Required
 - None (accessible to all users)
