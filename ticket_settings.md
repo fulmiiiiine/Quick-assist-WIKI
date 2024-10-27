@@ -76,6 +76,9 @@ To change ticket settings, follow these steps:
 
 ---
 
+You can find detailed information about ticket settings [here](settings.md#-ticket-settings).
+
+
 ## 📝 Notes
 
 - Ensure you have the appropriate permissions to modify ticket settings.
