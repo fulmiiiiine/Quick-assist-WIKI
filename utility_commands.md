@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 # Utility Commands
 
 Here are the utility commands available in the Discord bot:
