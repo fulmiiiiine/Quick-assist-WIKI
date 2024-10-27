@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 # Welcome to the Discord Bot Wiki
 
 This wiki contains commands for the Discord bot you can use in your server.
