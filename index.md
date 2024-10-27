@@ -17,6 +17,11 @@ This section explains how the logging system works within the bot.
 
 - [Logging System](logging_system.md)
 
+## Moderation Commands
+This section outlines the moderation commands available in the bot.
+
+- [Moderation Commands](moderation_commands.md)
+
 ## Additional Information
 If you need further assistance or information, feel free to reach out!
 
