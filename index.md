@@ -53,6 +53,8 @@ Configure various settings to customize the bot's behavior.
 ## 💡 Additional Information
 For further assistance or to explore more features, feel free to reach out to the community or consult this documentation!
 
+- [Support server](https://discord.gg/EmtuD6aMuU)
+
 ---
 
 [🔝 Return to Top](index.md)
