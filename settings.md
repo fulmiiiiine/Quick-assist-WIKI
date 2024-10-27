@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 # Server Settings Guide
 
 Welcome to the **Server Settings Guide** for the Discord Bot. This guide will provide you with detailed, step-by-step instructions on how to configure and manage your server settings.
@@ -15,15 +17,15 @@ Welcome to the **Server Settings Guide** for the Discord Bot. This guide will pr
    - [Set Blacklisted Role](#set-blacklisted-role)
    - [Set Manager Role](#set-manager-role)
    - [Modify Buttons](#modify-buttons)
-   
+
 2. [Welcome Settings](#welcome-settings)
    - [Set Welcome Channel](#set-welcome-channel)
    - [Set Welcome Message](#set-welcome-message)
-   
+
 3. [Level Settings](#level-settings)
    - [Set Level Up Message](#set-level-up-message)
    - [Set Level Roles](#set-level-roles)
-   
+
 4. [Log Settings](#log-settings)
    - [Set Log Channel](#set-log-channel)
    - [Set Log Message Format](#set-log-message-format)
@@ -144,7 +146,7 @@ Welcome to the **Server Settings Guide** for the Discord Bot. This guide will pr
 ### 2. Set Log Message Format
 
 - **Step 1**: Click on the button labeled **"Set Log Message Format."**
-- **Step 2**: Wait for a prompt in the chat asking for the **new log message format**.
+- **Step 2**: Wait for unprompted in the chat asking for the **new log message format**.
 - **Step 3**: Type your desired format for log messages.
 - **Step 4**: Press **Enter** to submit.
 
@@ -170,4 +172,4 @@ If you encounter any issues while using the commands, consider these tips:
 
 ## Return to Index
 
-[Back to Index](index.md)
+[Back to start](index.md)
