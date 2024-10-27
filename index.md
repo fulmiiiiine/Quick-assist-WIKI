@@ -1,20 +1,25 @@
-<link rel="stylesheet" type="text/css" href="styles.css">
+# Discord Bot Documentation
 
-# Quick-Assist Bot Command Documentation
+Welcome to the documentation for the Discord bot. Below you will find links to the various sections of the bot's functionality.
 
-Welcome to the documentation for the Quick-Assist Bot. Below are the links to various command categories you can explore:
-
-## Command Categories
+## General Commands
+This section covers the general commands available in the bot.
 
 - [General Commands](general_commands.md)
-- [Moderation Commands](moderation_commands.md)
+
+## Level System Commands
+This section details the commands related to the level system in the bot.
+
 - [Level System Commands](level_system.md)
-- [Fun Commands](fun_commands.md)
-- [Utility Commands](utility_commands.md)
+
+## Logging System
+This section explains how the logging system works within the bot.
+
+- [Logging System](logging_system.md)
+
+## Additional Information
+If you need further assistance or information, feel free to reach out!
 
 ---
 
-### How to Use
-Each command listed in the above categories has its description, usage, and required permissions. Click on a command category to learn more.
-
-Enjoy using the bot!
+[Return to the Top](index.md)
