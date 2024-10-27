@@ -1,3 +1,6 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+
+
 # Discord Bot Documentation
 
 Welcome to the documentation for the Discord bot. Below you will find links to the various sections of the bot's functionality.
