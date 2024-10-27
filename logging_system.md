@@ -79,6 +79,8 @@ The logging system records various events within the server and sends formatted 
 ## Setup
 To set up the logging system, ensure that the bot has the necessary permissions to send messages in the designated log channel and that the log channel ID is saved correctly using the `save_log_channel` function.
 
+You can find detailed information about ticket settings [here](settings.md#log-settings).
+
 [Back to start](index.md)
 
 For more information on general commands, visit the [General Commands](general_commands.md) page.
