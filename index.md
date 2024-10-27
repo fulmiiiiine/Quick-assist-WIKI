@@ -41,7 +41,7 @@ The welcome system sends personalized messages and images to new members.
 ### Ticket Commands
 Manage support and requests easily with the ticketing system.
 
-- [Ticket Commands](ticket.md)
+- [Ticket Commands](ticket_settings.md)
 
 ### Bot Settings
 Configure various settings to customize the bot's behavior.
