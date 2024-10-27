@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 # General Commands
 
 Here are the general commands available in the Discord bot:
