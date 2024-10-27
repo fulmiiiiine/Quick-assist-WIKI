@@ -36,7 +36,7 @@ Discover the powerful moderation tools that Quick-Assist provides to maintain a 
 ### Welcome Commands
 The welcome system sends personalized messages and images to new members.
 
-- [Welcome Commands](welcome.md)
+- [Welcome Commands](welcome_settings.md)
 
 ### Ticket Commands
 Manage support and requests easily with the ticketing system.
