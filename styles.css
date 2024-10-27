@@ -1,20 +1,52 @@
 body {
-    background-color: #000;  /* Black background */
-    color: #fff;             /* White text */
-    font-family: Arial, sans-serif; /* Change the font if you like */
+    background-color: #1e1e1e; /* Dark background color */
+    color: #ffffff; /* Light text color for contrast */
+    font-family: Arial, sans-serif; /* Use a readable font */
+    padding: 20px; /* Add some padding around the text */
 }
 
 h1, h2, h3 {
-    color: #fff;             /* White headers */
-}
-
-a {
-    color: #1e90ff;          /* Link color */
+    color: #f0f0f0; /* Slightly lighter color for headings */
 }
 
 code {
-    background-color: #333;  /* Darker background for code blocks */
-    color: #fff;             /* White text in code blocks */
-    padding: 5px;           /* Add some padding */
-    border-radius: 5px;     /* Rounded corners for code blocks */
+    background-color: #2a2a2a; /* Dark background for code blocks */
+    color: #ffa500; /* Bright color for code text */
+    padding: 2px 4px; /* Padding around code */
+    border-radius: 4px; /* Slight rounding of corners */
+}
+
+pre {
+    background-color: #2a2a2a; /* Dark background for preformatted text */
+    color: #ffffff; /* White text for preformatted */
+    padding: 10px; /* Padding for preformatted text */
+    border-radius: 4px; /* Rounded corners */
+}
+
+a {
+    color: #1e90ff; /* Bright blue color for links */
+}
+
+a:hover {
+    color: #00bfff; /* Lighter blue on hover */
+}
+
+.table {
+    width: 100%; /* Full width for tables */
+    border-collapse: collapse; /* Collapse borders */
+}
+
+.table th, .table td {
+    border: 1px solid #444; /* Light border for table cells */
+    padding: 8px; /* Padding inside table cells */
+    text-align: left; /* Left-align text in table cells */
+}
+
+.table th {
+    background-color: #333; /* Dark header background */
+    color: #ffffff; /* White text for headers */
+}
+
+.table tr:nth-child(even) {
+    background-color: #2a2a2a; /* Darker background for even rows */
 }
