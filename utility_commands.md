@@ -12,3 +12,5 @@ Get information about a user.
 
 ## /avatar
 Get the avatar of a user.
+
+For more information on level commands, visit the [Level System Commands](level_system.md) page.
