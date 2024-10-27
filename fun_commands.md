@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 # Fun Commands
 
 Here are the fun commands available in the Discord bot:
