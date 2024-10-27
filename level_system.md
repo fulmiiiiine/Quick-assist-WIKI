@@ -1,3 +1,6 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+
+
 # Level System Commands
 
 This document outlines the commands related to the level system in the Discord bot.
