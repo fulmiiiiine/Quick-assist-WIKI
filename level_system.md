@@ -68,5 +68,7 @@ The level system allows users to gain XP through messages sent in the server. He
 
 - **Function: `save_levels(guild_id, levels)`**
   - Saves the current levels back to the JSON file.
+ 
+You can find detailed information about level settings [here](settings.md#level-settings).
 
 For more information on general commands, visit the [General Commands](general_commands.md) page.
