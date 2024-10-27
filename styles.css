@@ -1,0 +1,20 @@
+body {
+    background-color: #000;  /* Black background */
+    color: #fff;             /* White text */
+    font-family: Arial, sans-serif; /* Change the font if you like */
+}
+
+h1, h2, h3 {
+    color: #fff;             /* White headers */
+}
+
+a {
+    color: #1e90ff;          /* Link color */
+}
+
+code {
+    background-color: #333;  /* Darker background for code blocks */
+    color: #fff;             /* White text in code blocks */
+    padding: 5px;           /* Add some padding */
+    border-radius: 5px;     /* Rounded corners for code blocks */
+}
