@@ -1,3 +1,6 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+
+
 # Server Settings Guide
 
 Welcome to the **Server Settings Guide** for the Discord Bot. This guide will provide you with detailed, step-by-step instructions on how to configure and manage your server settings.
