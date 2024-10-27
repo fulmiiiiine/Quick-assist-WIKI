@@ -1,52 +1,33 @@
+/* General body styles for dark background */
 body {
-    background-color: #1e1e1e; /* Dark background color */
-    color: #ffffff; /* Light text color for contrast */
-    font-family: Arial, sans-serif; /* Use a readable font */
-    padding: 20px; /* Add some padding around the text */
+    background-color: #1e1e1e; /* Dark background */
+    color: #ffffff; /* Default text color */
+    font-family: Arial, sans-serif; /* Readable font */
+    padding: 20px; /* Padding for content */
 }
 
-h1, h2, h3 {
-    color: #f0f0f0; /* Slightly lighter color for headings */
-}
-
+/* Code styles for inline code */
 code {
-    background-color: #2a2a2a; /* Dark background for code blocks */
-    color: #ffa500; /* Bright color for code text */
-    padding: 2px 4px; /* Padding around code */
-    border-radius: 4px; /* Slight rounding of corners */
-}
-
-pre {
-    background-color: #2a2a2a; /* Dark background for preformatted text */
-    color: #ffffff; /* White text for preformatted */
-    padding: 10px; /* Padding for preformatted text */
+    background-color: #2a2a2a; /* Dark background for inline code */
+    color: #ffa500; /* Color for inline code text */
+    padding: 2px 4px; /* Padding around inline code */
     border-radius: 4px; /* Rounded corners */
 }
 
+/* Preformatted text styles */
+pre {
+    background-color: #2a2a2a; /* Dark background for preformatted text */
+    color: #ffffff; /* White text */
+    padding: 10px; /* Padding inside preformatted */
+    border-radius: 4px; /* Rounded corners */
+    overflow: auto; /* Allow scrolling for long code */
+}
+
+/* Styles for links */
 a {
-    color: #1e90ff; /* Bright blue color for links */
+    color: #1e90ff; /* Bright blue for links */
 }
 
 a:hover {
     color: #00bfff; /* Lighter blue on hover */
-}
-
-.table {
-    width: 100%; /* Full width for tables */
-    border-collapse: collapse; /* Collapse borders */
-}
-
-.table th, .table td {
-    border: 1px solid #444; /* Light border for table cells */
-    padding: 8px; /* Padding inside table cells */
-    text-align: left; /* Left-align text in table cells */
-}
-
-.table th {
-    background-color: #333; /* Dark header background */
-    color: #ffffff; /* White text for headers */
-}
-
-.table tr:nth-child(even) {
-    background-color: #2a2a2a; /* Darker background for even rows */
 }
