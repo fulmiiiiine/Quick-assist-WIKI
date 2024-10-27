@@ -53,7 +53,7 @@ Once configured, the bot will automatically send the customized welcome message 
 If you have questions about configuring welcome settings, feel free to reach out for assistance!
 discord.gg/assistance
 
-You can find detailed information about ticket settings [here](settings.md#welcome-settings).
+You can find detailed information about welcome settings [here](settings.md#welcome-settings).
 
 
 ---
