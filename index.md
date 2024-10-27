@@ -1,6 +1,5 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
-
 # 📜 Quick-Assist Bot Documentation
 
 Welcome to the **Quick-Assist** Discord Bot documentation! Here, you'll find all the essential information you need to utilize the features of Quick-Assist efficiently.
@@ -8,7 +7,7 @@ Welcome to the **Quick-Assist** Discord Bot documentation! Here, you'll find all
 ---
 
 ## 🌟 Overview
-Quick-Assist is designed to help you manage your Discord server effortlessly. With a range of commands for moderation, leveling, and logging, this bot ensures a smooth experience for all users.
+Quick-Assist is designed to help you manage your Discord server effortlessly. With a range of commands for moderation, leveling, logging, and more, this bot ensures a smooth experience for all users.
 
 ---
 
@@ -34,6 +33,21 @@ Discover the powerful moderation tools that Quick-Assist provides to maintain a 
 
 - [Moderation Commands](moderation_commands.md)
 
+### Welcome Commands
+The welcome system sends personalized messages and images to new members.
+
+- [Welcome Commands](welcome.md)
+
+### Ticket Commands
+Manage support and requests easily with the ticketing system.
+
+- [Ticket Commands](ticket.md)
+
+### Bot Settings
+Configure various settings to customize the bot's behavior.
+
+- [Bot Settings](settings.md)
+
 ---
 
 ## 💡 Additional Information
@@ -42,4 +56,3 @@ For further assistance or to explore more features, feel free to reach out to th
 ---
 
 [🔝 Return to Top](index.md)
-
