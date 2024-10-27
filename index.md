@@ -1,11 +1,20 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
-# Welcome to the Discord Bot Wiki
+# Quick-Assist Bot Command Documentation
 
-This wiki contains commands for the Discord bot you can use in your server.
+Welcome to the documentation for the Quick-Assist Bot. Below are the links to various command categories you can explore:
 
-## Table of Contents
+## Command Categories
+
 - [General Commands](general_commands.md)
 - [Moderation Commands](moderation_commands.md)
+- [Level System Commands](level_system.md)
 - [Fun Commands](fun_commands.md)
 - [Utility Commands](utility_commands.md)
+
+---
+
+### How to Use
+Each command listed in the above categories has its description, usage, and required permissions. Click on a command category to learn more.
+
+Enjoy using the bot!
