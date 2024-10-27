@@ -39,4 +39,3 @@ You can find detailed information about log settings [here](settings.md#log-sett
 
 [Back to start](index.md)
 
-For more information on general commands, visit the [General Commands](general_commands.md) page.
