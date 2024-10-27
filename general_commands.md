@@ -42,3 +42,5 @@ Dance!
 
 ## /rps
 Play Rock-Paper-Scissors!
+
+[🔝 Return to Start](index.md)
