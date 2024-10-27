@@ -1,33 +1,45 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
 
-# Discord Bot Documentation
+# 📜 Quick-Assist Bot Documentation
 
-Welcome to the documentation for the Discord bot. Below you will find links to the various sections of the bot's functionality.
-
-## General Commands
-This section covers the general commands available in the bot.
-
-- [General Commands](general_commands.md)
-
-## Level System Commands
-This section details the commands related to the level system in the bot.
-
-- [Level System Commands](level_system.md)
-
-## Logging System
-This section explains how the logging system works within the bot.
-
-- [Logging System](logging_system.md)
-
-## Moderation Commands
-This section outlines the moderation commands available in the bot.
-
-- [Moderation Commands](moderation_commands.md)
-
-## Additional Information
-If you need further assistance or information, feel free to reach out!
+Welcome to the **Quick-Assist** Discord Bot documentation! Here, you'll find all the essential information you need to utilize the features of Quick-Assist efficiently.
 
 ---
 
-[Return to the Top](index.md)
+## 🌟 Overview
+Quick-Assist is designed to help you manage your Discord server effortlessly. With a range of commands for moderation, leveling, and logging, this bot ensures a smooth experience for all users.
+
+---
+
+## 📚 Table of Contents
+
+### General Commands
+Explore the basic commands available to all users, designed to enhance your interaction with the bot.
+
+- [General Commands](general_commands.md)
+
+### Level System Commands
+Learn how the leveling system works, including how to check your level and gain experience points!
+
+- [Level System Commands](level_system.md)
+
+### Logging System
+Understand how Quick-Assist logs important events and actions within your server for better management.
+
+- [Logging System](logging_system.md)
+
+### Moderation Commands
+Discover the powerful moderation tools that Quick-Assist provides to maintain a healthy community.
+
+- [Moderation Commands](moderation_commands.md)
+
+---
+
+## 💡 Additional Information
+For further assistance or to explore more features, feel free to reach out to the community or consult this documentation!
+
+---
+
+[🔝 Return to Top](index.md)
+
