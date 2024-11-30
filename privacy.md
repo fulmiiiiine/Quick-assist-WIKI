@@ -66,6 +66,6 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 ## **10. Contact Information**
 If you have any questions or concerns about this Privacy Policy or the data we collect, please contact us at:  
-[Insert support email or Discord support server link]
+[Support](https://discord.gg/EmtuD6aMuU)
 
 ---
