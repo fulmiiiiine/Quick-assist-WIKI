@@ -8,7 +8,11 @@ By using Mavis, you agree to these Terms of Service. If you do not agree to any 
 ---
 
 ## **2. Features and Purpose**
-Mavis is designed to enhance your Discord experience by providing [briefly describe the bot's primary functions, e.g., "moderation tools, interactive games, and utility features"].
+Mavis is designed to enhance your Discord experience by providing features such as:
+- Ticket management for efficient support handling
+- Member statistics tracking
+- Support commands to assist server users
+- Additional utility and interactive features to improve server management and engagement.
 
 ---
 
@@ -52,4 +56,3 @@ For questions, concerns, or feedback, please contact us via:
 [Support](https://discord.gg/EmtuD6aMuU)
 
 ---
-
