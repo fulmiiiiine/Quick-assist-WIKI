@@ -58,3 +58,6 @@ For further assistance or to explore more features, feel free to reach out to th
 ---
 
 [🔝 Return to Top](index.md)
+
+[T.O.S.](tos.md)
+[Privacy policy](privacy.md)
